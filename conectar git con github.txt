@@ -1,0 +1,5 @@
+crea un archivo
+abrirlo con visual code
+hacer un git init //revisar que estemos en la raiz correcta sino cd para volver a la raiz y cd+nomCarpeta ingresa
+hacer git remote add origin +URL
+listo
